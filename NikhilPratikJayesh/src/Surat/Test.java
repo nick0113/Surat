@@ -16,8 +16,18 @@ public class Test {
     	  System.out.println("Not leap year");
       }
 	}
+	
+	int n=10;
+	if(n/2==0)
+	{
+		System.out.println("even number");
+	}
+	else
+	{
+		System.out.println("odd number");
+	}
 
 }
-
+}
 
 
